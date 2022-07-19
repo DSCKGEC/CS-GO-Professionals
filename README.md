@@ -1,7 +1,7 @@
 
 # CS-GO-Professionals
 
-[![Contributors](https://img.shields.io/github/contributors/dsckgec/project-template.svg)](https://github.com/dsckgec/CS-GO-Professionals/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/project-template.svg)](https://github.com/dsckgec/CS-GO-Professionals/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/project-template.svg)](https://github.com/dsckgec/CS-GO-Professionals/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/project-template)](https://github.com/dsckgec/CS-GO-Professionals/pulls)
+[![Contributors](https://img.shields.io/github/contributors/dsckgec/CS-GO-Professionals.svg)](https://github.com/dsckgec/CS-GO-Professionals/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/CS-GO-Professionals.svg)](https://github.com/dsckgec/CS-GO-Professionals/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/CS-GO-Professionals.svg)](https://github.com/dsckgec/CS-GO-Professionals/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/CS-GO-Professionals)](https://github.com/dsckgec/CS-GO-Professionals/pulls)
 
 
 ![CSGO](https://cdn.akamai.steamstatic.com/steam/apps/730/ss_60b4f959497899515f46012df805b0006ef21af6.1920x1080.jpg?t=1641233427)
