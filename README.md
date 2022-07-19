@@ -29,8 +29,7 @@ The entire flow of the project includes:
 
 ## Project structure
 
-```
-  ├── Transaction/        
+```   
   ├── scraping notebook.ipynb             Notebook for Scraping the website
   ├── CSGO Player Dataset.csv             Original Dataset about CSGO Player Dataset
 ```
