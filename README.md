@@ -31,7 +31,9 @@ The entire flow of the project includes:
 
 ```   
   ├── scraping notebook.ipynb             Notebook for Scraping the website
-  ├── CSGO Player Dataset.csv             Original Dataset about CSGO Player Dataset
+  ├── feature engineering.ipynb           Notebook for deriving new features from Raw data 
+  ├── CSGO Player Dataset(Raw).csv        Original Dataset about CSGO Player Dataset
+  ├── CSGO Player Dataset(FE).csv         Dataset with added features 'Kills' and 'Deaths' about CSGO Player Dataset
 ```
 ## Getting started
 
