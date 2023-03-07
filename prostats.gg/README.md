@@ -8,7 +8,7 @@ Installation
 Clone the repository or download the source code.
 
 bash
-git clone https://github.com/your-username/player-stats-comparison-dash-app.git
+git clone https://github.com/DSCKGEC/CS-GO-Professionals.git
 Change into the project directory.
 
 bash
