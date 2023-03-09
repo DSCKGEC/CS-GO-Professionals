@@ -1,50 +1,69 @@
-Player Stats Comparison Dash App
-This is a simple Dash app that allows you to compare the stats of different players based on a selected statistic. The app shows the comparison as a bar graph.
+# Player Stats Comparison Dash App
 
-Requirements
-Python 3.6 or later
-Dash 2.0 or later
-Installation
+
+![Dashoard ](https://user-images.githubusercontent.com/99633856/224131846-bead34d2-9f90-4876-be28-d29250187ba4.png)
+
+## Description
+
+This is a simple Dash app that allows you to compare the stats of different players based on a selected statistic. The app shows the comparison on a bar graph.
+
+## Requirements
+
+  1. Python 3.6 or later
+  2. Dash 2.0 or later
+
+## Installation
+
 Clone the repository or download the source code.
 
-bash
+```bash
 git clone https://github.com/DSCKGEC/CS-GO-Professionals.git
+```
+
 Change into the project directory.
 
-bash
+```bash
 cd CS-GO-Professionals/prostats.gg
+```
 
-Usage
-Run the app.
+To run this.
 
-python app.py
+```bash
+pip install dash
+pip install plotly
+```
 
-Open the html file 
+## Usage
 
+1. Run the app.
+
+```bash
+python Players performance analysis .ipynb
+```
+
+2. Open the html file. 
 Select the names of the players and the statistic to compare from the dropdown menus.
-
 Click the "Compare" button to see the bar graph showing the comparison.
 
-Embedding in HTML
-To embed the app in an HTML page, you can use an iframe. Here are the steps:
+### Embedding in HTML
+To embed the app in an HTML page, you can use an iframe. 
+Here are the steps:
 
-Create an HTML file and open it in a text editor.
+1. Create an HTML file and open it in a text editor.
 
-Add an iframe element to the HTML file.
+2. Add an iframe element to the HTML file.
 
-html
-Copy code
-<iframe src="http://localhost:8050"></iframe>
-Save the HTML file.
+  html
+  ```bash
+  <iframe src="http://localhost:8050"></iframe>
+  ```
+3. Save the HTML file.
 
-Open the HTML file in a web browser. You should see the Dash app embedded in the HTML page.
+4. Open the HTML file in a web browser. You should see the Dash app embedded in the HTML page.
 
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
-This app was inspired by the Dash tutorial on the Plotly website. Special thanks to the Dash and Plotly teams for creating such an amazing framework and making data visualization accessible to everyone.
 
 
 
